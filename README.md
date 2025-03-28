@@ -1,4 +1,4 @@
-# Aplicação de Lista de Tarefas Simples
+# Aplicação de Lista de Tarefas
 Uma aplicação web simples de lista de tarefas, onde os usuários podem adicionar, visualizar e excluir tarefas. 
 A aplicação utiliza uma API REST que usa JSON para comunicação com o front-end, permitindo interações de forma fácil e intuitiva.
 
