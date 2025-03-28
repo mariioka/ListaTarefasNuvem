@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #fffbf5;
+}
+
+h1 {
+    color: #333;
+}
+
+.addTarefa {
+    margin: 20px auto;
+    max-width: 400px;
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px lightgrey;
+}
+
+button {
+    padding: 10px;
+    background-color: #3fa855;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px lightgrey;
+}
+
+button:hover {
+    background-color: #278e3d;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+li {
+    background: white;
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px lightgrey;
+}
+
+li button {
+    background-color: rgb(216, 95, 95);
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+li button:hover {
+    background-color: rgb(194, 65, 65);
+}
