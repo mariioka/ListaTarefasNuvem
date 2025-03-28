@@ -1,5 +1,5 @@
 # Aplicação de Lista de Tarefas
-Aplicação web simples de lista de tarefas (To-Do List), desenvolvida para ser executada em um ambiente Docker e fazer deploy na AWS EC2. \
+Aplicação web simples de lista de tarefas, desenvolvida para ser executada em um ambiente Docker e fazer deploy na AWS EC2. \
 Permite aos usuários adicionar, visualizar e excluir tarefas através de uma API REST, com a comunicação realizada em formato JSON.
 
 ### ➔ Funcionalidades: 
