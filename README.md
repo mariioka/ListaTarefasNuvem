@@ -1,13 +1,13 @@
 # Aplicação de Lista de Tarefas
-Uma aplicação web simples de lista de tarefas, onde os usuários podem adicionar, visualizar e excluir tarefas. 
-A aplicação utiliza uma API REST que usa JSON para comunicação com o front-end, permitindo interações de forma fácil e intuitiva.
+Aplicação web simples de lista de tarefas (To-Do List), desenvolvida para ser executada em um ambiente Docker e fazer deploy na AWS EC2. \
+Permite aos usuários adicionar, visualizar e excluir tarefas através de uma API REST, com a comunicação realizada em formato JSON.
 
 ### ➔ Funcionalidades: 
-• Exibir lista de tarefas simples  \
-• Permitir adicionar e excluir tarefas \
-• Armazenamento em JSON  
+• Exibir lista de tarefas \
+• Permitir adicionar e excluir tarefas 
 
 ### ➔ Tecnologias: 
 • Front-end: HTML, CSS, JavaScript \
 • Back-end: Java, SpringBoot \
-• Docker + EC2 
+• Container: Docker \
+• Deploy: EC2 
